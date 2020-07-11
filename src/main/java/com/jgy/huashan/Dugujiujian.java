@@ -7,5 +7,6 @@ public class Dugujiujian {
         System.out.println(000);
         System.out.println(000);
         System.out.println(456);
+        System.out.println(456);
     }
 }
